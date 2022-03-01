@@ -1,2 +1,2 @@
 # My first readme 
-## Stay tuned 
+## Getting used to git and the terminal
